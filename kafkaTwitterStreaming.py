@@ -80,10 +80,10 @@ if __name__ == "__main__":
 
 
     # twitter api credentials
-    CONSUMER_KEY = "n6TdQ7qSpjJkMUjeOG0SDZUGW"
-    CONSUMER_SECRET = "PgBIu35oI3iVfeXbPNDJ7h63uqlYIFRQbO38F0HHXV4WYr8Z63"
-    ACCESS_TOKEN = "2511047768-SRyZ0eCZiai5o1q8r49QXb8z8hcozMfqoq6lU0a"
-    ACCESS_TOKEN_SECRET = "nB2GD6nmiho12JuwQt1yQx2Jy61W3TLs7FvvD4L99vitG"
+    CONSUMER_KEY = "#"
+    CONSUMER_SECRET = "#"
+    ACCESS_TOKEN = "#"
+    ACCESS_TOKEN_SECRET = "#"
 
     # complete authorization and initialize API endpoint
     auth = OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
