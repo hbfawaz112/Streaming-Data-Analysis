@@ -102,10 +102,10 @@ if __name__ == "__main__":
              'CO-2 reductie Nederland']
 
     # twitter api credentials
-    consumer_key = 'n6TdQ7qSpjJkMUjeOG0SDZUGW'
-    consumer_secret = 'PgBIu35oI3iVfeXbPNDJ7h63uqlYIFRQbO38F0HHXV4WYr8Z63'
-    access_token = '2511047768-SRyZ0eCZiai5o1q8r49QXb8z8hcozMfqoq6lU0a'
-    access_secret = 'nB2GD6nmiho12JuwQt1yQx2Jy61W3TLs7FvvD4L99vitG'
+    consumer_key = '#'
+    consumer_secret = '#'
+    access_token = '#'
+    access_secret = '#'
 
     auth = OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_secret)
